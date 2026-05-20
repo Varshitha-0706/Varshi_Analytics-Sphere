@@ -48,46 +48,46 @@ It is organized systematically into subject-wise folders containing notes, assig
 └── Statistics.pdf
 ```
 ## 🧠 Key Topics Covered
-```
-📊 Statistical Analysis
-🤖 Machine Learning
-KNN, Decision Trees, SVM, Logistic Regression
-Bayesian Learning
-Genetic Algorithms
-🗄️ Database Management Systems (DBMS)
-🧮 SQL for Data Analysis
-🐍 Python Programming
-📈 Excel for Data Analysis
-🌐 Big Data Analytics
-```
+
+📊 Statistical Analysis  
+🤖 Machine Learning  
+KNN, Decision Trees, SVM, Logistic Regression  
+Bayesian Learning  
+Genetic Algorithms  
+🗄️ Database Management Systems (DBMS)  
+🧮 SQL for Data Analysis  
+🐍 Python Programming  
+📈 Excel for Data Analysis  
+🌐 Big Data Analytics  
+
 ## 🛠️ Tools & Technologies
-Python
+Python 
 SQL
 Microsoft Excel
 Machine Learning Algorithms
 Statistical Methods
 
 ## 🎯 Purpose
-Maintain a well-organized learning repository
-Strengthen core data science concepts
-Showcase academic and practical work
-Support internship and placement preparation
+Maintain a well-organized learning repository  
+Strengthen core data science concepts  
+Showcase academic and practical work  
+Support internship and placement preparation  
 
 ## 📈 Highlights
-✔ Structured subject-wise organization
-✔ Covers both theory and implementation
-✔ Includes academic coursework and practice
-✔ Easy to navigate for revision and reference
+✔ Structured subject-wise organization  
+✔ Covers both theory and implementation  
+✔ Includes academic coursework and practice  
+✔ Easy to navigate for revision and reference  
 
 ## 🚀 Future Enhancements
-Add real-world data science projects
-Include Jupyter Notebooks (.ipynb)
-Create data visualization dashboards
-Upload mini and major projects
+Add real-world data science projects  
+Include Jupyter Notebooks (.ipynb)  
+Create data visualization dashboards  
+Upload mini and major projects  
 
 ## 👩‍💻 Author
-Varshitha Molabanti
-Aspiring Data Scientist
+Varshitha Molabanti  
+~Aspiring Data Scientist
 
 ⭐ Note
 

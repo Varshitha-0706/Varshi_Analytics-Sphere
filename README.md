@@ -6,7 +6,7 @@ This repository showcases a structured collection of my academic learning and pr
 
 It is organized systematically into subject-wise folders containing notes, assignments, weekly materials, and implementation resources for efficient learning and revision.
 
-📂 Repository Structure
+## 📂 Repository Structure
 ├── Big-Data-Analysis
 │   ├── Week-01 to Week-12 materials
 │   ├── Notes and reference documents
@@ -45,7 +45,8 @@ It is organized systematically into subject-wise folders containing notes, assig
 │   ├── SQL Notes
 │
 └── Statistics.pdf
-🧠 Key Topics Covered
+
+## 🧠 Key Topics Covered
 📊 Statistical Analysis
 🤖 Machine Learning
 KNN, Decision Trees, SVM, Logistic Regression
@@ -57,32 +58,32 @@ Genetic Algorithms
 📈 Excel for Data Analysis
 🌐 Big Data Analytics
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Python
 SQL
 Microsoft Excel
 Machine Learning Algorithms
 Statistical Methods
 
-🎯 Purpose
+## 🎯 Purpose
 Maintain a well-organized learning repository
 Strengthen core data science concepts
 Showcase academic and practical work
 Support internship and placement preparation
 
-📈 Highlights
+## 📈 Highlights
 ✔ Structured subject-wise organization
 ✔ Covers both theory and implementation
 ✔ Includes academic coursework and practice
 ✔ Easy to navigate for revision and reference
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 Add real-world data science projects
 Include Jupyter Notebooks (.ipynb)
 Create data visualization dashboards
 Upload mini and major projects
 
-👩‍💻 Author
+## 👩‍💻 Author
 Varshitha Molabanti
 Aspiring Data Scientist
 

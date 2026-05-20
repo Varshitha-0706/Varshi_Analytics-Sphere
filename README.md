@@ -13,9 +13,11 @@ It is organized systematically into subject-wise folders containing notes, assig
 │   ├── Notes and reference documents
 │
 ├── DBMS
-│   ├── Fundamentals, Intermediate
+│   ├── 01_Foundations_of_DBMS/
+|   ├── 02_Advanced_DBMS_Concepts/
 │   ├── SQL Procedures & PL/SQL
 │   ├── Database Management Notes
+|   ├── Database Management System E_Book_Final
 │
 ├── DSP
 │   ├── Unit-01 to Unit-05

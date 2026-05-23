@@ -1,12 +1,12 @@
-# 📊 Data Science and Analytics Portfolio
+# 📊 Data Science and Analytics Portfolio 🔥🎯
 
 ## 📌 Overview
 
-This repository showcases a structured collection of my academic learning and practical work in Data Science, Machine Learning, SQL, Python, Excel, and Big Data.
+> This repository showcases a structured collection of my academic learning and practical work in Data Science, Machine Learning, SQL, Python, Excel, and Big Data.
 
 It is organized systematically into subject-wise folders containing notes, assignments, weekly materials, and implementation resources for efficient learning and revision.
 
-## 📂 Repository Structure
+## 📂 Repository Structure 👀
 ```
 ├── Big-Data-Analysis
 │   ├── Week-01 to Week-12 materials
@@ -90,6 +90,10 @@ Upload mini and major projects
 ## 👩‍💻 Author
 Varshitha Molabanti  
 ~Aspiring Data Scientist
+
+## 🔗 **Let's Connect** 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bharat2044/](https://www.linkedin.com/in/molabanti-varshitha-303271373))
 
 ⭐ Note
 

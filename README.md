@@ -70,10 +70,10 @@ Machine Learning Algorithms
 Statistical Methods
 
 ## 🎯 Purpose
-Maintain a well-organized learning repository  
-Strengthen core data science concepts  
-Showcase academic and practical work  
-Support internship and placement preparation  
+- Maintain a well-organized learning repository  
+- Strengthen core data science concepts  
+- Showcase academic and practical work  
+- Support internship and placement preparation  
 
 ## 📈 Highlights
 ✔ Structured subject-wise organization  
